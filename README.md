@@ -15,3 +15,22 @@ Exemplo de Aplicação Java Web, utilizando o Spring Framework, utizando Web Ser
 6 - Para fazer o teste dos serviços Rest, as url's são: 
 http://localhost:8080/springboot/blog 
 http://localhost:8080/springboot/categoria
+
+
+Web Services with Spring Boot
+
+Example of a Java Web Application, using the Spring Framework, using RESTFul Web Services and JPA with Hibernate.
+
+1 - An Eclipse Maven project has been created, just import the project into Eclipse.
+
+2 - The application must first be run locally to create and populate the tables.
+
+3 - The CreateTables.java class must be executed.
+
+4 - Check whether the application tables were created and populated.
+
+5 - Compile the application using Maven.
+
+6 - To test Rest services, the url's are: 
+http://localhost:8080/springboot/blog 
+http://localhost:8080/springboot/categoria
