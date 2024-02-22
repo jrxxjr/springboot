@@ -17,7 +17,7 @@ Exemplo de Aplicação Java Web, utilizando o Spring Framework, utizando Web Ser
 http://localhost:8080/springboot/blog 
 http://localhost:8080/springboot/categoria
 
-
+________________________________________________________________________________________________________________________________________________________________________________________________
 English:
 # Web Services with Spring Boot
 
