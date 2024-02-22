@@ -1,4 +1,5 @@
-Web Services com Spring Boot
+Portuguese:
+# Web Services com Spring Boot
 
 Exemplo de Aplicação Java Web, utilizando o Spring Framework, utizando Web Services RESTFul e JPA com Hibernate.
 
@@ -17,7 +18,8 @@ http://localhost:8080/springboot/blog
 http://localhost:8080/springboot/categoria
 
 
-Web Services with Spring Boot
+English:
+# Web Services with Spring Boot
 
 Example of a Java Web Application, using the Spring Framework, using RESTFul Web Services and JPA with Hibernate.
 
